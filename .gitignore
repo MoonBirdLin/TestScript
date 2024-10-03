@@ -1,0 +1,7 @@
+apks/*
+res/*
+windows-kill_Win32/*
+windows-kill_x64/*
+
+!apks/.gitkeep
+!res/.gitkeep
